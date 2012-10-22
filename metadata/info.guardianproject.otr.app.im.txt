@@ -1,13 +1,13 @@
-Category:None
-License:Unknown
-Web Site:
-Source Code:
-Issue Tracker:
+Category:Security
+License:Apache2
+Web Site:https://guardianproject.info/apps/gibberbot
+Source Code:git@github.com:guardianproject/Gibberbot.git
+Issue Tracker:https://dev.guardianproject.info/projects/gibberbot
 
-Summary:Gibberbot
+Summary:Gibberbot Secure Messenger
 Description:
-Gibberbot
+Gibberbot is a secured chat client capable of firewall and filter circumvention, surveillance blocking and end-to-end encryption.
 .
 
-Update Check Mode:Market
+Update Check Mode:RepoManifest
 

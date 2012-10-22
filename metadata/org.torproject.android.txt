@@ -1,12 +1,12 @@
-Category:None
-License:Unknown
-Web Site:
-Source Code:
-Issue Tracker:
+Category:Security
+License:BSD
+Web Site:https://torproject.org
+Source Code:https://gitweb.torproject.org/orbot.git
+Issue Tracker:https://trac.torproject.org
 
-Summary:Orbot
+Summary:Orbot Tor on Android
 Description:
-Orbot
+Orbot is an application that allows mobile phone users to access the web, instant messaging and email without being monitored or blocked by their mobile internet service provider. Orbot brings the features and functionality of Tor to the Android mobile operating system.
 .
 
 Update Check Mode:Market

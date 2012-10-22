@@ -1,12 +1,14 @@
-Category:None
-License:Unknown
-Web Site:
-Source Code:
-Issue Tracker:
+Category:Security
+License:GPLv3
+Web Site:https://guardianproject.info/apps/obscuracam
+Source Code:https://github.com/guardianproject/securesmartcam
+Issue Tracker:https://dev.guardianproject.info
 
 Summary:ObscuraCam
 Description:
-ObscuraCam
+A "Visual Privacy" app developed with WITNESS (http://witness.org).
+Ever capture someone in a photo or video, and later realized they may not want to be in it? Not comfortable posting a friend, family member or child's face on the internet? Tired of Facebook, Google and other sites "auto detecting" faces in your photos?
+ObscuraCam is a visual privacy app for photo and video, that gives you the power to better protect the identity of those captures in your photos, before you post them online.
 .
 
 Update Check Mode:Market
