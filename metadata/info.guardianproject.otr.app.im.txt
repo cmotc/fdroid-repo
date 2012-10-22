@@ -1,0 +1,13 @@
+Category:None
+License:Unknown
+Web Site:
+Source Code:
+Issue Tracker:
+
+Summary:Gibberbot
+Description:
+Gibberbot
+.
+
+Update Check Mode:Market
+

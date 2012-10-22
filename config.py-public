@@ -1,0 +1,45 @@
+
+#Copy this file to config.py, then amend the settings below according to
+#your system configuration.
+
+sdk_path = "/home/n8fr8/dev/android"
+ndk_path = "/home/n8fr8/dev/android/ndk"
+
+#You probably don't need to change this...
+javacc_path = "/usr/share/java"
+
+repo_url = "https://guardianproject.info/repo"
+repo_name = "GuardianProject"
+repo_icon = "gplogo.png"
+repo_description = """
+A curated repository of apps developed by the Guardian Project
+and others focused on mobile security, privacy and safety.
+"""
+
+#The key (from the keystore defined below) to be used for signing the
+#repository itself. Can be None for an unsigned repository.
+repo_keyalias = "repokey"
+
+#The keystore to use for release keys when building. This needs to be
+#somewhere safe and secure, and backed up!
+keystore = "repo.keystore"
+
+#The password for the keystore (at least 6 characters).
+keystorepass = "CHANGEME"
+
+#The password for keys - the same is used for each auto-generated key
+#as well as for the repository key.
+keypass = "CHANGEME"
+
+#The distinguished name used for all keys.
+keydname = "CHANGEME"
+
+#Use this to override the auto-generated key aliases with specific ones
+#for particular applications. Normally, just leave it empty.
+keyaliases = {}
+#keyaliases['com.example.app'] = 'example'
+
+#The ssh path to the server's public web root directory. This is used for
+#uploading data, etc.
+serverwebroot = ''
+

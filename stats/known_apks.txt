@@ -1,0 +1,6 @@
+CACertMan-0.0.2-alpha-20111011.apk info.guardianproject.cacert 2012-10-22
+Gibberbot-v10-RC2.apk info.guardianproject.otr.app.im 2012-10-22
+NoteCipher-0.0.4.1-dev.apk info.guardianproject.notepadbot 2012-10-22
+ObscuraCam-1.2-FINAL.apk org.witness.sscphase1 2012-10-22
+Orbot-release-0.2.4.4-alpha-1.0.11-RC4.apk org.torproject.android 2012-10-22
+Orweb-release-0.4.4a.apk info.guardianproject.browser 2012-10-22
