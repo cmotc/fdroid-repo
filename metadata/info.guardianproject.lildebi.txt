@@ -1,0 +1,18 @@
+Category:Security
+License:GPLv3
+Web Site:https://guardianproject.info/apps/lildebi
+Source Code:http://github.com/guardianproject/lildebi
+Issue Tracker:https://dev.guardianproject.info/projects/lildebi
+
+Auto Name:
+Summary:Lil' Debi: Debian Installer
+Description:
+Want an easy Debian chroot running that you can trust? Install Lil' Debi
+.
+
+Repo Type:git
+Repo:git@github.com:guardianproject/lildebi.git
+
+Auto Update Mode:None
+Update Check Mode:RepoManifest
+

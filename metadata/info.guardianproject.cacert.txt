@@ -4,10 +4,12 @@ Web Site:https://github.com/guardianproject/cacert
 Source Code:
 Issue Tracker:https://dev.guardianproject.info
 
+Auto Name:
 Summary:CACertMan
 Description:
 CACertMan
 .
 
+Auto Update Mode:None
 Update Check Mode:Market
 

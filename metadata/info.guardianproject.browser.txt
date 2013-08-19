@@ -3,12 +3,16 @@ License:GPLv2
 Web Site:https://guardianproject.info/apps/orweb
 Source Code:http://github.com/guardianproject/orweb
 Issue Tracker:https://dev.guardianproject.info/projects/orweb
-Repo Type:git
-Repo:git@github.com:guardianproject/Orweb.git
 
+Auto Name:
 Summary:Orweb v2
 Description:
 Based on the open-source Shadow browser from the University of Cambridge, Orweb works hand in hand with Orbot to provide web access that is able to circumvent web filters and firewalls, while also improving a users ability to remain anonymous online. Orweb also enables whitelist control of cookies, keeps no local history, disables Flash, and requires only Internet permissions, keeping you safe from malicious content. Beyond Tor, Orweb also supports any HTTP proxy server.
 .
 
+Repo Type:git
+Repo:git@github.com:guardianproject/Orweb.git
+
+Auto Update Mode:None
 Update Check Mode:RepoManifest
+

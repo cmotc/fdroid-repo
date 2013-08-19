@@ -4,10 +4,12 @@ Web Site:https://guardianproject.info/apps/gibberbot
 Source Code:git@github.com:guardianproject/Gibberbot.git
 Issue Tracker:https://dev.guardianproject.info/projects/gibberbot
 
+Auto Name:
 Summary:Gibberbot Secure Messenger
 Description:
 Gibberbot is a secured chat client capable of firewall and filter circumvention, surveillance blocking and end-to-end encryption.
 .
 
+Auto Update Mode:None
 Update Check Mode:RepoManifest
 

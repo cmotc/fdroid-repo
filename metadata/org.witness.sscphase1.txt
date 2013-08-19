@@ -4,6 +4,7 @@ Web Site:https://guardianproject.info/apps/obscuracam
 Source Code:https://github.com/guardianproject/securesmartcam
 Issue Tracker:https://dev.guardianproject.info
 
+Auto Name:
 Summary:ObscuraCam
 Description:
 A "Visual Privacy" app developed with WITNESS (http://witness.org).
@@ -11,5 +12,6 @@ Ever capture someone in a photo or video, and later realized they may not want t
 ObscuraCam is a visual privacy app for photo and video, that gives you the power to better protect the identity of those captures in your photos, before you post them online.
 .
 
+Auto Update Mode:None
 Update Check Mode:Market
 
