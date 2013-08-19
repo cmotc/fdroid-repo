@@ -1,0 +1,10 @@
+cd repo
+rm *.apk
+wget https://guardianproject.info/releases/orbot-latest.apk
+wget https://guardianproject.info/releases/orweb-latest.apk
+wget https://guardianproject.info/releases/gibberbot-latest.apk
+wget https://guardianproject.info/releases/notecipher-latest.apk
+wget https://guardianproject.info/releases/pixelknot-latest.apk
+wget https://guardianproject.info/releases/lildebi-latest.apk
+wget https://guardianproject.info/releases/cacertman-latest.apk
+wget https://guardianproject.info/releases/obscuracam-latest.apk
