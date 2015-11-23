@@ -8,7 +8,8 @@ ndk_path = "/home/n8fr8/dev/android/ndk"
 #You probably don't need to change this...
 javacc_path = "/usr/share/java"
 
-repo_url = "https://guardianproject.info/repo"
+#repo_url = "https://guardianproject.info/repo"
+repo_url = "https://cmotc.github.io/fdroid-repo"
 repo_name = "GuardianProject"
 repo_icon = "gplogo.png"
 repo_description = """
